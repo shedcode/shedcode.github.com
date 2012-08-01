@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://shedcode.github.com/2012/08/01/shedcode/</loc>
+        <lastmod>2012-08-01T15:06:38+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://shedcode.github.com/blog/archives/</loc>
-        <lastmod>2012-08-01T10:09:22+01:00</lastmod>
+        <lastmod>2012-08-01T15:06:38+01:00</lastmod>
     </url>
     <url>
         <loc>http://shedcode.github.com/</loc>
-        <lastmod>2012-08-01T10:09:22+01:00</lastmod>
+        <lastmod>2012-08-01T15:06:38+01:00</lastmod>
     </url>
 </urlset>

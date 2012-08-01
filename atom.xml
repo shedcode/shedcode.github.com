@@ -4,7 +4,7 @@
   <title><![CDATA[The home of ShedCode]]></title>
   <link href="http://shedcode.github.com/atom.xml" rel="self"/>
   <link href="http://shedcode.github.com/"/>
-  <updated>2012-08-01T10:30:55+01:00</updated>
+  <updated>2012-08-01T15:06:52+01:00</updated>
   <id>http://shedcode.github.com/</id>
   <author>
     <name><![CDATA[James Jefferies]]></name>
@@ -12,5 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ShedCode]]></title>
+    <link href="http://shedcode.github.com/2012/08/01/shedcode/"/>
+    <updated>2012-08-01T14:20:00+01:00</updated>
+    <id>http://shedcode.github.com/2012/08/01/shedcode</id>
+    <content type="html"><![CDATA[<h2>James Jefferies</h2>
+
+<p>ShedCode&#8217;s director is <a href="http://jamesjefferies.com">James Jefferies</a>. He formed ShedCode in the summer of 2011 to work on interesting projects with interesting people.</p>
+
+<h2>Past Projects</h2>
+
+<p>James has worked on</p>
+
+<ul>
+<li><a href="http://happenstanceproject.com">Happenstance</a> Project (Digital R&amp;D fund)</li>
+<li>Application forms for the <a href="http://www.theco-operativebank.co.uk">Co-operative Bank</a></li>
+<li>Recruitement system for South Yorkshire Police</li>
+<li>Platform for Technology Strategy Board, <a href="http://ktn.innovateuk.org">_connect</a></li>
+<li>Meter reading systems for RWE/Yorkshire Electricity/npower</li>
+</ul>
+
+
+<h2>Tech</h2>
+
+<p>Experience of working with the Java platform, mainly web applications. Currently picking up Rails &amp; Grails with iOS later on in the year.</p>
+]]></content>
+  </entry>
   
 </feed>
