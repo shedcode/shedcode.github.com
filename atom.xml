@@ -4,7 +4,7 @@
   <title><![CDATA[The home of ShedCode]]></title>
   <link href="http://shedcode.github.com/atom.xml" rel="self"/>
   <link href="http://shedcode.github.com/"/>
-  <updated>2012-10-08T21:41:51+01:00</updated>
+  <updated>2012-10-08T21:47:38+01:00</updated>
   <id>http://shedcode.github.com/</id>
   <author>
     <name><![CDATA[James Jefferies]]></name>
@@ -18,7 +18,7 @@
     <link href="http://shedcode.github.com/2012/08/01/shedcode/"/>
     <updated>2012-08-01T14:20:00+01:00</updated>
     <id>http://shedcode.github.com/2012/08/01/shedcode</id>
-    <content type="html"><![CDATA[<p>Hi, I&#8217;m <a href="http://jamesjefferies.com">James Jefferies</a>, a Software Engineer &amp; Technologist. I formed ShedCode in the Summer of 2011 to work on interesting projects with interesting people.</p>
+    <content type="html"><![CDATA[<p><img class="left" src="http://shedcode.github.com/jamesjefferies-photo.jpg" width="200" height="200" title="James Jefferies" > Hi, I&#8217;m <a href="http://jamesjefferies.com">James Jefferies</a>, a Software Engineer &amp; Technologist. I formed ShedCode in the Summer of 2011 to work on interesting projects with interesting people.</p>
 
 <p>After many years of being an employee for large companies, solving problems by thinking hard &amp; asking computers to help, I wanted to be more flexibile with who I could work with.</p>
 
