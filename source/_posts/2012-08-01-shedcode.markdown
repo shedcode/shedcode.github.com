@@ -6,13 +6,14 @@ comments: true
 categories: 
 ---
 
-We formed the company in the Summer of 2011 to work on interesting projects with interesting people. After many years of solving problems by thinking hard & asking computers to help we wanted to be more flexible with who we could work with. We love to fix all kinds of problems, from building bespoke web, desktop & mobile applications to streamlining your business processes. Sometimes we work in conjunction with other companies and agencies to ensure you get what you need with the best advice possible.
+{% img left /images/jamesjefferies-photo.jpg 200 200 James Jefferies  %} Hi, I'm [James Jefferies](http://jamesjefferies.com), a Software Engineer & Technologist. I formed ShedCode in the Summer of 2011 to work on interesting projects with interesting people. 
 
-## The People 
-ShedCode's director and main developer is [James Jefferies](http://jamesjefferies.com). Every job has it's own requirements, so we like to use our extensive network of great people to bring in the right kind of people to help deliver something fantastic.
+After many years of being an employee for large companies, solving problems by thinking hard & asking computers to help, I wanted to be more flexibile with who I could work with.
 
-## Past Projects
-James has worked on
+I love to fix all kinds of problems, from building bespoke web, desktop & mobile applications to streamlining your business processes. I can't do everything though, so I often work in conjunction with experts who I have worked with over the years. From User Experience designers, to System Technicicans, to Project Managers, to Testers, never mind the Developers and Software Engineers!
+
+
+## Past Project Highlights
 
 * [Happenstance](http://happenstanceproject.com) Project (Digital R&D fund)
 * Application forms for the [Co-operative Bank](http://www.theco-operativebank.co.uk) with [Technophobia](http://www.technophobia.com)
@@ -22,10 +23,9 @@ James has worked on
 * Customer Relationship Management application & infrastructure architecture for [Barclays Bank](http://www.barclays.co.uk)
 
 ## Tech
+Many years of Java experience, including Grails. Recently used Rails and iOS for some startup project prototypes
 
-Currently using Rails & iOS on some new startup projects.
-Experience of working with the Java platform, mainly web applications.
 
 ## Where are we?
-We are based in an office above the [Site Gallery](http://sitegallery.org) in Sheffield, South Yorkshire (Previously West Riding of Yorkshire). Pop in to see us for a chat in the cafe downstairs!
+ShedCode is based in an office above the [Site Gallery](http://sitegallery.org) in Sheffield, South Yorkshire (Previously West Riding of Yorkshire). Pop in to see us for a chat in the cafe downstairs!
 

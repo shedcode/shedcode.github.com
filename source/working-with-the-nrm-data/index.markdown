@@ -7,7 +7,9 @@ sharing: true
 footer: true
 ---
 
-###### note - draft, awaiting Access MDB files & licencing info
+## Introduction
+
+For the "Off The Rails" hackday, we've been fortunate to get access to some of the National Railway Museum data. This data is in various forms, a lot of it having been catalogued over the last 15 years or so. Thanks to Mark Green of the NRM for sorting out access and to Rachel Coldicutt for putting us in touch.
 
 ## NMSI data
 
