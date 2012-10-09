@@ -8,16 +8,16 @@ categories:
 
 {% img left /images/jamesjefferies-photo.jpg 200 200 James Jefferies  %} Hi, I'm [James Jefferies](http://jamesjefferies.com), a Software Engineer & Technologist. I formed ShedCode in the Summer of 2011 to work on interesting projects with interesting people. 
 
-After many years of being an employee for large companies, solving problems by thinking hard & asking computers to help, I wanted to be more flexibile with who I could work with.
+After many years of being an employee for large companies, solving problems by thinking hard & asking computers to help, I wanted to be more flexible with who I could work with.
 
-I love to fix all kinds of problems, from building bespoke web, desktop & mobile applications to streamlining your business processes. I can't do everything though, so I often work in conjunction with experts who I have worked with over the years. From User Experience designers, to System Technicicans, to Project Managers, to Testers, never mind the Developers and Software Engineers!
+I love to fix all kinds of problems, from building bespoke web, desktop & mobile applications to streamlining your business processes. I can't do everything though, so I often work in conjunction with experts who I have worked with over the years. From User Experience designers, to System Technicians, to Project Managers, to Testers, never mind the Developers and Software Engineers!
 
 
 ## Past Project Highlights
 
 * [Happenstance](http://happenstanceproject.com) Project (Digital R&D fund)
 * Application forms for the [Co-operative Bank](http://www.theco-operativebank.co.uk) with [Technophobia](http://www.technophobia.com)
-* Recruitement system for South Yorkshire Police
+* Recruitment system for South Yorkshire Police
 * Platform for Technology Strategy Board, [_connect](http://ktn.innovateuk.org)
 * Meter reading systems & Mobile meter installation systems for what is now [RWE npowerRWE](http://www.rwe.com/web/cms/en/97770/rwe-npower/about-us/) 
 * Customer Relationship Management application & infrastructure architecture for [Barclays Bank](http://www.barclays.co.uk)
