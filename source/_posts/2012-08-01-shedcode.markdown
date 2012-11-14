@@ -8,10 +8,17 @@ categories:
 
 {% img left /images/jamesjefferies-photo.jpg 200 200 James Jefferies  %} Hi, I'm [James Jefferies](http://jamesjefferies.com), a Software Engineer & Technologist. I formed ShedCode in the Summer of 2011 to work on interesting projects with interesting people. 
 
-After many years of being an employee for large companies, solving problems by thinking hard & asking computers to help, I wanted to be more flexible with who I could work with.
+After many years of being an employee for large companies, solving problems by thinking hard & asking computers to help, I wanted to be more flexible with who I could work with & what I worked on.
 
-I love to fix all kinds of problems, from building bespoke web, desktop & mobile applications to streamlining your business processes. I can't do everything though, so I often work in conjunction with experts who I have worked with over the years. From User Experience designers, to System Technicians, to Project Managers, to Testers, never mind the Developers and Software Engineers!
+I love to fix all kinds of problems, from building bespoke web, desktop & mobile applications, performance consultancy, architecture and general technical advice. 
 
+Sometimes I work on my own, or with a client's team. Other times, I am able to team up with some of the experts I've worked with over the years. From User Experience designers, to System Technicians, to Project Managers and Testers to provide a full solution.
+
+## Current Project Highlights
+
+* [Steam powered Arduino](http://jamesjefferies.com/2012/11/11/steam-powered-arduino-part-1/)
+* Finance Portal - web application enabling statements and payements for a client
+* Roster - speed dating for railway engines
 
 ## Past Project Highlights
 
@@ -23,9 +30,11 @@ I love to fix all kinds of problems, from building bespoke web, desktop & mobile
 * Customer Relationship Management application & infrastructure architecture for [Barclays Bank](http://www.barclays.co.uk)
 
 ## Tech
-Many years of Java experience, including Grails. Recently used Rails and iOS for some startup project prototypes
+Many years of Java experience, including Grails. Recently started using Rails and learning iOS for some startup project prototypes.
+
+Also currently investigating Arduinos for electronic projects.
 
 
 ## Where are we?
-ShedCode is based in an office above the [Site Gallery](http://sitegallery.org) in Sheffield, South Yorkshire (Previously West Riding of Yorkshire). Pop in to see us for a chat in the cafe downstairs!
+ShedCode is based in an office above the [Site Gallery](http://sitegallery.org) in Sheffield, South Yorkshire. Pop in to see us for a chat in the cafe downstairs!
 
