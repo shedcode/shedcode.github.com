@@ -4,7 +4,7 @@
   <title><![CDATA[The home of ShedCode]]></title>
   <link href="http://shedcode.github.com/atom.xml" rel="self"/>
   <link href="http://shedcode.github.com/"/>
-  <updated>2012-10-09T22:09:26+01:00</updated>
+  <updated>2012-11-14T17:12:51+00:00</updated>
   <id>http://shedcode.github.com/</id>
   <author>
     <name><![CDATA[James Jefferies]]></name>
@@ -20,9 +20,20 @@
     <id>http://shedcode.github.com/2012/08/01/shedcode</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://shedcode.github.com/images/jamesjefferies-photo.jpg" width="200" height="200" title="James Jefferies" > Hi, I&#8217;m <a href="http://jamesjefferies.com">James Jefferies</a>, a Software Engineer &amp; Technologist. I formed ShedCode in the Summer of 2011 to work on interesting projects with interesting people.</p>
 
-<p>After many years of being an employee for large companies, solving problems by thinking hard &amp; asking computers to help, I wanted to be more flexible with who I could work with.</p>
+<p>After many years of being an employee for large companies, solving problems by thinking hard &amp; asking computers to help, I wanted to be more flexible with who I could work with &amp; what I worked on.</p>
 
-<p>I love to fix all kinds of problems, from building bespoke web, desktop &amp; mobile applications to streamlining your business processes. I can&#8217;t do everything though, so I often work in conjunction with experts who I have worked with over the years. From User Experience designers, to System Technicians, to Project Managers, to Testers, never mind the Developers and Software Engineers!</p>
+<p>I love to fix all kinds of problems, from building bespoke web, desktop &amp; mobile applications, performance consultancy, architecture and general technical advice.</p>
+
+<p>Sometimes I work on my own, or with a client&#8217;s team. Other times, I am able to team up with some of the experts I&#8217;ve worked with over the years. From User Experience designers, to System Technicians, to Project Managers and Testers to provide a full solution.</p>
+
+<h2>Current Project Highlights</h2>
+
+<ul>
+<li><a href="http://jamesjefferies.com/2012/11/11/steam-powered-arduino-part-1/">Steam powered Arduino</a></li>
+<li>Finance Portal - web application enabling statements and payements for a client</li>
+<li>Roster - speed dating for railway engines</li>
+</ul>
+
 
 <h2>Past Project Highlights</h2>
 
@@ -38,11 +49,13 @@
 
 <h2>Tech</h2>
 
-<p>Many years of Java experience, including Grails. Recently used Rails and iOS for some startup project prototypes</p>
+<p>Many years of Java experience, including Grails. Recently started using Rails and learning iOS for some startup project prototypes.</p>
+
+<p>Also currently investigating Arduinos for electronic projects.</p>
 
 <h2>Where are we?</h2>
 
-<p>ShedCode is based in an office above the <a href="http://sitegallery.org">Site Gallery</a> in Sheffield, South Yorkshire (Previously West Riding of Yorkshire). Pop in to see us for a chat in the cafe downstairs!</p>
+<p>ShedCode is based in an office above the <a href="http://sitegallery.org">Site Gallery</a> in Sheffield, South Yorkshire. Pop in to see us for a chat in the cafe downstairs!</p>
 ]]></content>
   </entry>
   
