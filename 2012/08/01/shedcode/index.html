@@ -134,9 +134,15 @@
 
 <h2>Tech</h2>
 
-<p>Many years of Java experience, including Grails. Recently started using Rails and learning iOS for some startup project prototypes.</p>
+<p>Many years of Java experience, including Grails. Recently started learning Rails and iOS for some startup project prototypes.</p>
+
+<p>At home in Linux land, but also have been a Mac user for the last 10 years.</p>
 
 <p>Also currently investigating Arduinos for electronic projects.</p>
+
+<h2>Github</h2>
+
+<p>I have recently started to use GitHub for code I think other people will find useful (as well as this site and <a href="http://jamesjefferies.com">jamesjefferies.com</a>) - you can see the ruby script I wrote for receiving the <a href="https://github.com/jamesjefferies/national-rail-datafeeds-ruby-examples">Network Rail Data Feeds</a> as a way of learning about them and Ruby. There are also many blog posts about what I learnt on my <a href="http://jamesjefferies.com">blog</a></p>
 
 <h2>Where are we?</h2>
 
@@ -198,6 +204,35 @@
       </li>
     
   </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/shedcode">@shedcode</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'shedcode',
+            count: 4,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 

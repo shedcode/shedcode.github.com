@@ -4,7 +4,7 @@
   <title><![CDATA[The home of ShedCode]]></title>
   <link href="http://shedcode.github.com/atom.xml" rel="self"/>
   <link href="http://shedcode.github.com/"/>
-  <updated>2012-11-14T17:12:51+00:00</updated>
+  <updated>2012-11-18T22:08:54+00:00</updated>
   <id>http://shedcode.github.com/</id>
   <author>
     <name><![CDATA[James Jefferies]]></name>
@@ -49,9 +49,15 @@
 
 <h2>Tech</h2>
 
-<p>Many years of Java experience, including Grails. Recently started using Rails and learning iOS for some startup project prototypes.</p>
+<p>Many years of Java experience, including Grails. Recently started learning Rails and iOS for some startup project prototypes.</p>
+
+<p>At home in Linux land, but also have been a Mac user for the last 10 years.</p>
 
 <p>Also currently investigating Arduinos for electronic projects.</p>
+
+<h2>Github</h2>
+
+<p>I have recently started to use GitHub for code I think other people will find useful (as well as this site and <a href="http://jamesjefferies.com">jamesjefferies.com</a>) - you can see the ruby script I wrote for receiving the <a href="https://github.com/jamesjefferies/national-rail-datafeeds-ruby-examples">Network Rail Data Feeds</a> as a way of learning about them and Ruby. There are also many blog posts about what I learnt on my <a href="http://jamesjefferies.com">blog</a></p>
 
 <h2>Where are we?</h2>
 
